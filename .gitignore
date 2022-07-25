@@ -1,6 +1,7 @@
 # Adding config.py file.
 config.py
 # Adding additional files.
+*.tar
 *.idea
 *.csv
 *.gitattributes
